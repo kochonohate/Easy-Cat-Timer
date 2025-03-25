@@ -1,7 +1,0 @@
-/* TypeScript转JavaScript的配置 */
-{
-    /* 用ES6语法，来进行编译 */
-    "compilerOptions": {
-        "target": "ES2015"
-    }
-}
